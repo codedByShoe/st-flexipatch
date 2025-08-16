@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+st
+
+# Generated/modified files
+config.h
+patches.h
+*.rej
+*.orig
+
+# Backup files
+*~
+*.bak
