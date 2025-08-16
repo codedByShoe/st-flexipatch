@@ -3,8 +3,6 @@
 st
 
 # Generated/modified files
-config.h
-patches.h
 *.rej
 *.orig
 
